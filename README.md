@@ -1,2 +1,2 @@
 # problemSolving
-Algorithm problems solving on Virtual Judges.
+Algorithm problem solving on Virtual Judges.
