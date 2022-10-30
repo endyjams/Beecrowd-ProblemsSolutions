@@ -1,2 +1,2 @@
 # problemSolving
-Algorithm problem solving on Virtual Judges.
+Algorithm on beecrowd.
